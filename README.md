@@ -1,6 +1,9 @@
 # demo-clase
 Esta es una demo para la clase del sabado
 ___
+
+# Esta es la edicion desde internet
+
 # Esta es una seccion
 
 ## SubSeccion
